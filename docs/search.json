@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CSU Sentinel Sites for Nature",
+    "section": "",
+    "text": "A consortium of California State University campuses have established monitoring sites as part of the California Biodiversity Sentinel Site Network."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "CSU SSN Members, Associated Researchers, and Students",
+    "section": "",
+    "text": "Associate Professor, Biological Sciences\n \nMy goal is to train students to be excellent field biologists with strong quantitative skills. I usually work on mammals, mostly in California, using a combination of publicly available data, data collected in the field, and remote sensing techniques. I strongly believe we should learn to use, and develop, cutting edge techniques while remaining rooted in a strong tradition of natural history."
+  },
+  {
+    "objectID": "people.html#faculty",
+    "href": "people.html#faculty",
+    "title": "CSU SSN Members, Associated Researchers, and Students",
+    "section": "",
+    "text": "Associate Professor, Biological Sciences\n \nMy goal is to train students to be excellent field biologists with strong quantitative skills. I usually work on mammals, mostly in California, using a combination of publicly available data, data collected in the field, and remote sensing techniques. I strongly believe we should learn to use, and develop, cutting edge techniques while remaining rooted in a strong tradition of natural history."
+  },
+  {
+    "objectID": "people.html#postdoctoral-fellows",
+    "href": "people.html#postdoctoral-fellows",
+    "title": "CSU SSN Members, Associated Researchers, and Students",
+    "section": "Postdoctoral Fellows",
+    "text": "Postdoctoral Fellows\n\n\n\n\n\nScott M. Appleby, PhD 🏳️‍🌈\nFrost Teacher-Scholar Postdoctoral Fellow\n    \nScott’s research focuses on population and community modeling, integrating a variety of novel monitoring techniques and machine learning to inform wildlife conservation and management."
+  },
+  {
+    "objectID": "people.html#graduate-students",
+    "href": "people.html#graduate-students",
+    "title": "CSU SSN Members, Associated Researchers, and Students",
+    "section": "Graduate Students",
+    "text": "Graduate Students\n\n\n\n\n\nGregory Grimsby\nMasters Student\n \nGregory received his bachelor’s degree in Wildlife and Fisheries Biology from the University of Michigan in 2019 where he first began exploring the role of spatial ecology in wildlife management and conservation. He then spent 3 years working with the endangered New Mexico Meadow Jumping Mouse (Zapus luteus) in southern New Mexico.\nIn Tim Bean’s lab at Cal Poly, Gregory’s research is part of a larger project looking into range shifts and habitat suitability for California small mammal species. Specifically, he is investigating changes in the extent of species’ range using the latest data from the Sentinel Site Network, and assessing range-wide habitat suitability for each species. In the future, Gregory is interested in exploring new ways to better understand the distribution of species in the environment."
+  },
+  {
+    "objectID": "stations.html",
+    "href": "stations.html",
+    "title": "CSU SSN Monitoring Stations",
+    "section": "",
+    "text": "CSU Biodiversity Monitoring Stations\nMAP OF SITES\n\n\nCore Sites\nEach core sentinel site includes small and large terrestrial animal monitoring using wildlife cameras, acoustic monitoring of birds and bats, and phenology monitoring using time lapse cameras. (Green circles on map)\n\n\nExtended Sites\nExtended sites include all the monitoring programs as core sites, plus a motus tag tracking tower and an internet-connected weather station. (Orange circles on map)"
+  }
+]
