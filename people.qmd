@@ -1,0 +1,57 @@
+---
+title: "CSU SSN Members, Associated Researchers, and Students"
+format: html
+---
+
+## Faculty
+
+::::: grid
+::: g-col-3
+![](photos/headshots/Bean_Tim.jpg){style="border-radius:50%" width="100%"}
+:::
+
+::: g-col-9
+### William "Tim" Bean, PhD
+
+Associate Professor, Biological Sciences\
+[{{<fa envelope>}}](mailto:wtbean@calpoly.edu) [{{<fa brands google-scholar>}}](https://scholar.google.com/citations?user=fWo1hH0AAAAJ&hl=en)
+
+My goal is to train students to be excellent field biologists with strong quantitative skills. I usually work on mammals, mostly in California, using a combination of publicly available data, data collected in the field, and remote sensing techniques. I strongly believe we should learn to use, and develop, cutting edge techniques while remaining rooted in a strong tradition of natural history.
+:::
+:::::
+
+## Postdoctoral Fellows
+
+::::: grid
+::: g-col-3
+![](photos/headshots/Appleby_Scott.jpg){style="border-radius:50%" width="100%"}
+:::
+
+::: g-col-9
+### Scott M. Appleby, PhD 🏳️‍🌈
+
+Frost Teacher-Scholar Postdoctoral Fellow\
+[{{<fa envelope>}}](mailto:sappleby@calpoly.edu) [{{<fa brands google-scholar>}}](https://scholar.google.com/citations?user=9JigpZwAAAAJ) [{{<fa brands github>}}](https://github.com/s-appleby) [{{<fa brands linkedin>}}](https://www.linkedin.com/in/scott-m-appleby/) [{{<fa brands bluesky>}}](https://bsky.app/profile/elfledermaus.bsky.social)
+
+Scott’s research focuses on population and community modeling, integrating a variety of novel monitoring techniques and machine learning to inform wildlife conservation and management.
+:::
+:::::
+
+## Graduate Students
+
+::::: grid
+::: g-col-3
+![](photos/headshots/Gimbel_Garrett.jpg){style="border-radius:50%" width="100%"}
+:::
+
+::: g-col-9
+### Gregory Grimsby
+
+Masters Student\
+[{{<fa envelope>}}](mailto:student@uni.edu) [{{<fa brands github>}}](https://github.com/s-appleby)
+
+Gregory received his bachelor's degree in Wildlife and Fisheries Biology from the University of Michigan in 2019 where he first began exploring the role of spatial ecology in wildlife management and conservation. He then spent 3 years working with the endangered New Mexico Meadow Jumping Mouse (Zapus luteus) in southern New Mexico. 
+
+In Tim Bean's lab at Cal Poly, Gregory's research is part of a larger project looking into range shifts and habitat suitability for California small mammal species. Specifically, he is investigating changes in the extent of species' range using the latest data from the Sentinel Site Network, and assessing range-wide habitat suitability for each species. In the future, Gregory is interested in exploring new ways to better understand the distribution of species in the environment.
+:::
+:::::

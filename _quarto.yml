@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "CSU Sentinel Sites for Nature"
+  navbar:
+    left:
+      - href: about.qmd
+        text: About
+      - href: stations.qmd
+        text: Monitoring Stations
+      - href: people.qmd
+        text: People
+      - href: publications.qmd
+        text: Publications
+    tools:
+      - icon: github
+        href: https://github.com/csu-ssn
+      - icon: instagram
+        href: https://instagram.com
+        
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+

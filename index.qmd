@@ -1,0 +1,7 @@
+---
+title: "CSU Sentinel Sites for Nature"
+format: html
+---
+
+A consortium of California State University campuses have established monitoring sites as part of the California Biodiversity Sentinel Site Network.
+

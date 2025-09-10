@@ -1,0 +1,14 @@
+---
+title: "CSU SSN Monitoring Stations"
+format: html
+---
+
+### CSU Biodiversity Monitoring Stations
+
+MAP OF SITES
+
+### Core Sites
+Each core sentinel site includes small and large terrestrial animal monitoring using wildlife cameras, acoustic monitoring of birds and bats, and phenology monitoring using time lapse cameras. (Green circles on map)
+
+### Extended Sites
+Extended sites include all the monitoring programs as core sites, plus a motus tag tracking tower and an internet-connected weather station. (Orange circles on map)
