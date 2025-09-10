@@ -5,4 +5,4 @@ format: html
 
 A consortium of California State University campuses have established monitoring sites as part of the California Biodiversity Sentinel Sites for Nature Network.
 
-While we are building out our web presence, you can learn more about the network by visiting: https://cassn.org
+While we are building out our web presence, you can learn more about the network by visiting: <https://cassn.org> and <https://wildlife.ca.gov/Science-Institute/Climate-Biodiversity-Monitoring>
