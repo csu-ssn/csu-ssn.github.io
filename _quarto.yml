@@ -5,6 +5,7 @@ project:
 website:
   title: "CSU Sentinel Sites for Nature"
   navbar:
+    background: darkgreen
     left:
       - href: about.qmd
         text: About
